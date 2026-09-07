@@ -44,3 +44,9 @@ Agricultural outcomes vary significantly across seasons due to changing environm
 ---
 
 ## 📁 Repository Structure
+
+.
+├── README.md                                # Project documentation
+├── VOIS_Major_Project_PPT_VOIS...           # Major project presentation slides
+├── seasonal_agriculture_performance.ipynb   # Analysis notebook with code & visualizations
+└── seasonal_agriculture_performance_dataset.csv # Dataset used for agricultural analysis
